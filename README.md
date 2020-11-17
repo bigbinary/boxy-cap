@@ -182,7 +182,3 @@ And you have way to look to logs `cap production less_log`.
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
 
-
-#### Brought to you by
-
-<a href='http://BigBinary.com'><img src="https://s3.amazonaws.com/bigbinary-media/horizontal/logo_blue.png" width="200px"/></a>
